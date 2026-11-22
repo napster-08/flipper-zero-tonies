@@ -16,7 +16,7 @@ Nous avons un répertoire de Tonies dans ce repo pour chaque langue, etant franc
 
 ##Écriture sur le tag
 
-Utilise S[SLI Writer](https://github.com/Julienbxl/SLI-Writer) : c'est une application Flipper dédiée à l'écriture de l'UID sur les tags ISO 15693 magic, à partir des .nfc. Il existe aussi une version APK Android si compiler le FAP t'ennuie.
+Utilise [SLI Writer](https://github.com/Julienbxl/SLI-Writer) : c'est une application Flipper dédiée à l'écriture de l'UID sur les tags ISO 15693 magic, à partir des .nfc. Il existe aussi une version APK Android si compiler le FAP t'ennuie.
 
     Installe le FAP dans apps/NFC.
     Ouvre-le, sélectionne le .nfcde la figurine.
