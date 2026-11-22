@@ -33,16 +33,20 @@ Le contenu audio n'est pas sur le tag : il reste sur la carte SD ou dans le clou
 ## Impression 3D
 Le plan de la base. Le principe est contre-intuitif : le tag ne va pas au centre. Il y a une plaque métallique au milieu de la surface de lecture de la box, c'est une zone morte, et c'est là que va l'aimant. Le tag se place décalé d'environ 10 mm de l'axe, et légèrement au-dessus du plan de l'aimant.
 
-Le schéma ci-dessus donne les proportions (vue de dessus à gauche, coupe à droite). Les cotes exactes à respecter :
-Élément	Valeur
-Diamètre de base	60 mm minimum (65 mm recommandé pour plus de marge)
-Épaisseur de la base	6 mm
-Décalage du centre du tag par rapport à l'axe	10 à 11 mm
-Logement du tag	Ø 39 mm, profondeur 0,5 mm
-Position du tag	Affleurant ou dépassant de 0,5 mm
-Matière sous le tag	0,8 mm (ne jamais dépasser 1,5 mm)
-Poche de l'aimant	Ø 10,3 mm × 3,2 mm de profondeur, centrée sur l'axe
-Aimant	Disque en néodyme 10 × 3 mm, grade N35 minimum
+
+## 📐 Spécifications techniques
+
+| Élément | Valeur |
+| :--- | :--- |
+| Diamètre de base | 60 mm minimum (65 mm recommandé) |
+| Épaisseur de la base | 6 mm |
+| Décalage du centre du tag par rapport à l'axe | 10 à 11 mm |
+| Logement du tag | Ø 39 mm, profondeur 0,5 mm |
+| Position du tag | Affleurant ou dépassant de 0,5 mm |
+| Matière sous le tag | 0,8 mm (ne jamais dépasser 1,5 mm) |
+| Poche de l'aimant | Ø 10,3 mm × 3,2 mm de profondeur, centrée sur l'axe |
+| Aimant | Disque en néodyme 10 × 3 mm, grade N35 minimum |
+
 
 La poche de l'aimant est au-dessus du plan du tag, côté intérieur de la figurine. C'est ce qui permet au tag de passer au-dessus de l'aimant sans que celui-ci ne dérègle sa bobine. Si tu préfères garder le tag bien à plat, descends l'aimant de 2 à 3 mm dans l'épaisseur du socle.
 Pourquoi ces valeurs
