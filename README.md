@@ -31,18 +31,28 @@ Uniquement des magic SLIX-L (UID modifiable) de rfidfriend.com, variante magic. 
 Le contenu audio n'est pas sur le tag : il reste sur la carte SD ou dans le cloud. La box le retrouve grâce à l'UID et le télécharge si besoin, donc la figurine clonée fonctionne aussi en ligne, et pourra être utilisée sur n'importe quelle box du foyer.
 
 ## Impression 3D
-oici le plan de la base. Le principe est contre-intuitif : le tag ne va pas au centre. Il y a une plaque métallique au milieu de la surface de lecture de la box, c'est une zone morte, et c'est là que va l'aimant. Le tag se place décalé d'environ 10 mm de l'axe, et légèrement au-dessus du plan de l'aimant.
+Le plan de la base. Le principe est contre-intuitif : le tag ne va pas au centre. Il y a une plaque métallique au milieu de la surface de lecture de la box, c'est une zone morte, et c'est là que va l'aimant. Le tag se place décalé d'environ 10 mm de l'axe, et légèrement au-dessus du plan de l'aimant.
 
 Le schéma ci-dessus donne les proportions (vue de dessus à gauche, coupe à droite). Les cotes exactes à respecter :
-Géométrie
-Élément	Valeur
-Diamètre de base	60 mm minimum (65 mm si tu veux de la marge)
-Épaisseur de la base	6 mm
-Décalage du centre du tag par rapport à l'axe	10 à 11 mm
-Logement du tag	⌀39 mm, profondeur 0,5 mm, tag affleurant ou 0,5 mm en saillie
-Matière sous le tag	0,8 mm (jamais plus de 1,5 mm)
-Poche de l'aimant	⌀10,3 mm × 3,2 mm de profondeur, à l'axe
-Aimant	disque néodyme 10 × 3 mm, N35 ou plus
+-------------------------------------------------------------------------------------|
+Élément	                       |     Valeur                                          |
+-------------------------------|-----------------------------------------------------|
+Diamètre de base	           |   60 mm minimum (65 mm si tu veux de la marge)      |
+-------------------------------|-----------------------------------------------------|
+Épaisseur de la base	       |   6 mm                                              |
+-------------------------------|-----------------------------------------------------|
+Décalage du centre du tag par  |                                                     |
+rapport à l'axe	               |   10 à 11 mm                                        |
+-------------------------------|-----------------------------------------------------|
+Logement du tag	               |  ⌀39 mm, profondeur 0,5 mm,                         |
+                               |  tag affleurant ou 0,5 mm en saillie                |
+-------------------------------|-----------------------------------------------------|
+Matière sous le tag	           |  0,8 mm (jamais plus de 1,5 mm)                     |
+-------------------------------|-----------------------------------------------------|
+Poche de l'aimant	           |  ⌀10,3 mm × 3,2 mm de profondeur, à l'axe           |
+-------------------------------|-----------------------------------------------------|
+Aimant	                       |  disque néodyme 10 × 3 mm, N35 ou plus              |
+-------------------------------|-----------------------------------------------------|
 
 La poche de l'aimant est au-dessus du plan du tag, côté intérieur de la figurine. C'est ce qui permet au tag de passer au-dessus de l'aimant sans que celui-ci ne dérègle sa bobine. Si tu préfères garder le tag bien à plat, descends l'aimant de 2 à 3 mm dans l'épaisseur du socle.
 Pourquoi ces valeurs
